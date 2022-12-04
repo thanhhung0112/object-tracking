@@ -1,2 +1,2 @@
 # object-tracking
-The first github project of mine
+Using Mean-shift algorithm
